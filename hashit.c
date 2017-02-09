@@ -56,7 +56,6 @@ int main(void) {
     scanf("%i", &op_count);
     for(int i=0; i<op_count; i++){
         char input[19];
-        char cmd[3] = input[]
         scanf("%s", input);
         printf("%s",input);
         //now we have the input line
